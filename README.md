@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BobiIsAwake
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning C, C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C, C#, F#
 - 📫 How to reach me on Discord .bobi_ ! 
 - 😄 Pronouns: Any (besides It/its)
-- ⚡ Fun fact: No fun facts
