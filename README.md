@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bobi
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning C, C#, F#
+- 🌱 I’m currently learning C, C# and F#
 - 📫 How to reach me on Discord .bobi_ ! 
 - 😄 Pronouns: Any (besides It/its)
