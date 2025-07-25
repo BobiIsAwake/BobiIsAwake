@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BobiIsAwake
+- 👋 Hi, I’m Bobi
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning C, C#, F#
 - 📫 How to reach me on Discord .bobi_ ! 
