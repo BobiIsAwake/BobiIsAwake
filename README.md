@@ -1,5 +1,6 @@
 - Heya, I’m Bobi but I also go by Matcha on the internet.
 - I'm an aspiring developer whos extremly interested into learning new stuff and expanding my knowledge.
 - I’m currently learning C, C++, C#, Java and F#.
-- You can reach me on Discord by adding me with my username ".bobi_" or find me on other places through https://linktr.ee/matchaferret! 
-- Pronouns: Any (besides It/its)
+- I have dabbled a bit with HTML, CSS, JS and MySQL within the past year as of me writing this (2026).
+- You can reach me on Discord by adding me with my username ".bobi_" or by finding me on other places through https://linktr.ee/matchaferret ! 
+- Pronouns: Any (I don't care as long it's not It/its)
